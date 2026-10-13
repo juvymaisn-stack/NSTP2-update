@@ -1,0 +1,25 @@
+{
+ "version": "1.1.0",
+ "type": "release",
+ "notes": "test",
+ "force": true,
+ "audience": [
+  "student",
+  "instructor"
+ ],
+ "sha256": "903dea952e830f5ce74dfff6f74bdedb9ba830c6dc6a7d64b19ce86fcf3bfb74",
+ "apk": null,
+ "publishedBy": "juvy",
+ "publishedAt": "2026-10-13T04:15:50.995Z",
+ "history": [
+  {
+   "version": "1.1.0",
+   "type": "release",
+   "audience": [
+    "student",
+    "instructor"
+   ],
+   "publishedAt": "2026-10-13T04:15:50.995Z"
+  }
+ ]
+}
